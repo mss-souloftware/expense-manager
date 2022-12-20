@@ -1,2 +1,2 @@
 # expense-manager
-Develop Expense on React JS.
+Develop Expense Manager on React JS.
